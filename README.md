@@ -6,7 +6,7 @@ Disease Prediction Model
 HealifyLLM - Q&A Language Model
 # Data Collection, Cleaning, Preprocessing
 Healify-LLM model:
-Engineered brand new LLM Corpus Dataset of size 6800 samples from scratch. Started with scraping based on {healthline.com}(https://www.healthline.com/directory/topics)
+Engineered brand new LLM Corpus Dataset of size 6800 samples from scratch. Started with scraping based on [healthline.com](https://www.healthline.com/directory/topics)
 To enhance the corpus for user experience, Sample addition was done with my python script. Enabling it to provide detailed and accurate answers to a wide range of user questioning styles.
 Disease Model:
 The model was trained on a kaggle dataset from Disease-Symptom Knowledge Database, a database with over hundreds of patient records at the New York Presbyterian Hospital, USA.
